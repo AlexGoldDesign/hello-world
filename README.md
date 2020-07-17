@@ -1,3 +1,3 @@
 # hello-world
-first github
+first github 'kinda'
 this is my first github project. soon to be more
